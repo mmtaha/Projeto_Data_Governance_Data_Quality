@@ -1,4 +1,4 @@
-# Projeto_Data_Governance_Data_Quality
+# **Projeto_Data_Governance_Data_Quality**
 
 🔍 Sobre o Projeto
 Este projeto foi desenvolvido em Python para aprimorar processos de Data Governance e Data Quality através do enriquecimento automatizado de informações de clientes. O sistema realiza consultas em APIs públicas de CNPJ para validar e complementar dados cadastrais, garantindo maior confiabilidade e padronização das informações corporativas.
