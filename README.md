@@ -7,8 +7,8 @@ Este projeto foi desenvolvido em Python para aprimorar processos de Data Governa
 🎯 **Objetivos Principais
 #
 #
-📊 **Melhoria da Qualidade de Dados
-
+📊 **Melhoria da Qualidade de Dados**
+#
 Validação automática de CNPJs junto a fontes oficiais
 
 Padronização de informações cadastrais como endereços e telefones
@@ -18,7 +18,8 @@ Identificação proativa de registros inconsistentes ou desatualizados
 Enriquecimento de bases de dados com informações validadas
 #
 #
-⚙️ **Automação de Processos
+⚙️ **Automação de Processos**
+#
 Processamento em massa para grandes volumes de dados
 
 Integração inteligente com múltiplas fontes de informação
@@ -32,6 +33,7 @@ Geração de relatórios prontos para análise
 #
 #
 🔄 **Consulta Multi-API**
+#
 O sistema implementa uma estratégia robusta de consulta que utiliza três APIs diferentes de forma sequencial:
 
 ReceitaWS - Fonte oficial do governo
@@ -42,6 +44,7 @@ PublicaCNPJ - Serviço complementar
 #
 #
 🏗️ **Estruturação de Dados**
+#
 Extração e organização completa de endereços
 
 Normalização de nomes e razões sociais
@@ -52,6 +55,7 @@ Classificação de situação cadastral
 #
 #
 🔌 **Flexibilidade de Implementação**
+#
 O código pode ser adaptado para trabalhar diretamente com:
 
 Bancos de dados corporativos (SQL Server, Oracle, PostgreSQL)
@@ -64,6 +68,7 @@ Plataformas cloud (AWS, Azure, GCP)
 #
 #
 💻 **Tecnologias Utilizadas**
+#
 Python 3.x - Linguagem principal
 
 Pandas - Manipulação e processamento de dados
@@ -79,6 +84,7 @@ Google Colab - Ambiente de execução (opcional)
 #
 #
 🏢 **Para Equipes de Data Governance**
+#
 Auditoria de qualidade de dados existentes
 
 Padronização de informações cadastrais
@@ -87,6 +93,7 @@ Monitoramento contínuo da qualidade dos dados
 #
 #
 💼 **Para Equipes Comerciais**
+#
 Enriquecimento de base de clientes
 
 Atualização automática de contatos
@@ -95,6 +102,7 @@ Segmentação mais precisa de mercado
 #
 #
 🔧 **Para Equipes de TI**
+#
 Integração com sistemas existentes
 
 Automação de processos manuais
